@@ -1,0 +1,28 @@
+{
+  "name": "zinchouse",
+  "version": "1.0.0",
+  "description": "This is repo is for Continous Integration purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desgraciado/zinchouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desgraciado/zinchouse/issues"
+  },
+  "homepage": "https://github.com/Desgraciado/zinchouse#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
+}
